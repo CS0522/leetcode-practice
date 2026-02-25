@@ -2,6 +2,7 @@
  * @lc app=leetcode.cn id=1 lang=cpp
  *
  * [1] 两数之和
+ * 解决思路：哈希
  */
 
 // @lc code=start

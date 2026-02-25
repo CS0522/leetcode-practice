@@ -2,11 +2,13 @@
  * @lc app=leetcode.cn id=49 lang=cpp
  *
  * [49] 字母异位词分组
+ * 解决思路：哈希
  */
 
 // @lc code=start
 #include <iostream>
 #include <vector>
+#include <unordered_map>
 #include <algorithm>
 using namespace std;
 

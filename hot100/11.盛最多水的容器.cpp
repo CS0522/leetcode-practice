@@ -2,6 +2,7 @@
  * @lc app=leetcode.cn id=11 lang=cpp
  *
  * [11] 盛最多水的容器
+ * 解决思路：双指针
  */
 #include <vector>
 #include <algorithm>

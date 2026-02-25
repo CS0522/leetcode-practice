@@ -2,6 +2,7 @@
  * @lc app=leetcode.cn id=283 lang=cpp
  *
  * [283] 移动零
+ * 解决思路：双指针
  */
 
 // @lc code=start
